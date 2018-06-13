@@ -2,10 +2,9 @@
 ResponseWebSite
 
 # 图片
-
-<figure>
-    <img src="/images/aba.desktop.thumb.jpg">
-    <img src="/images/aba.desktop.thumb.jpg">
-    <img src="/images/aba.desktop.thumb.jpg">
-    <img src="/images/aba.desktop.thumb.jpg">
-</figure>
+<center class="half">
+    <img src="/images/aba.desktop.thumb.jpg" width="200">
+    <img src="/images/aba.desktop.thumb.jpg" width="200">
+    <img src="/images/aba.desktop.thumb.jpg" width="200">
+    <img src="/images/aba.desktop.thumb.jpg" width="200">
+</center>
